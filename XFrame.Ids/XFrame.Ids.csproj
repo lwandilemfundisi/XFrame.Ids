@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
 	  <PackageId>XFrame.Ids</PackageId>
-	  <Version>7.0.0</Version>
+	  <Version>7.0.1</Version>
 	  <Authors>Lwandile Mfundisi</Authors>
 	  <Description>XFrame.Ids houses concept of an identity</Description>
 	  <IsPackable>true</IsPackable>
@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="XFrame.Common" Version="7.0.5" />
+    <PackageReference Include="XFrame.Common" Version="7.0.6" />
     <PackageReference Include="XFrame.ValueObjects" Version="7.0.0" />
   </ItemGroup>
 
